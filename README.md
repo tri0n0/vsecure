@@ -1,10 +1,3 @@
-Yes! For **GitHub**, you usually want the README to be a bit more polished —  
-something that looks good when people visit your repository.
-
-Here’s an improved **GitHub-friendly** version of your README:
-
----
-
 # 🚀 Snort HIDS in WSL2
 
 ## 📚 About
